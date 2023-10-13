@@ -7,7 +7,7 @@
 
 # QUAX Data Analysis
 
-Final project for *Laboratory of Computational Physics (Mod. B)* course, Physics of Data degree at University of Padua.
+Final project for *Laboratory of Computational Physics (Mod. B)* course, Physics of Data degree at University of Padova.
 
 ## Abstract
 
